@@ -12,7 +12,7 @@ I worked in several tech and e-commerce companies, managing projects and growing
 
 I first discovered the buzzing world of a game development company 🎮 working at [Ubisoft](https://www.ubisoft.com/)
 
-Then at 🚌 [Camboticket](camboticket.com), I had various missions to increase sales volume.
+Then at 🚌 [Camboticket](https://www.camboticket.com/), I had various missions to increase sales volume.
 
 Finally as general manager of [Delishop](https://delishop.asia/), an e-commerce start-up 🛒 of more than 30 employees, I oversaw the release of the new website and app.
 
