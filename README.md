@@ -36,11 +36,15 @@ Looking for my first experience working as a fullstack web developer! 💪
             <td align="center">
                 <p>HTML</p>
                 <p>CSS</p>
+                <p>Bootstrap</p>
                 <p>JavaScript</p>
+                <p>Typescript</p>
                 <p>React JS</p>
                 <p>Redux</p>
+                <p>Recoil</p>
                 <p>Node JS</p>
                 <p>Express JS</p>
+                <p>PostgreSQL</p>
             </td>
             <td align="center"> 
                 <p>Microsoft Office</p>
