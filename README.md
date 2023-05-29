@@ -61,7 +61,7 @@ Looking for my first experience working as a fullstack web developer! 💪
 
 ## Wanna know more?
 
-Then you can check my [portfolio website](), my [repositeries](https://github.com/jisokoo?tab=repositories) or my [LinkedIn](https://www.linkedin.com/in/aur%C3%A8le-barban%C3%A7on-782b6a94/).
+Then you can check my [portfolio website](http://www.aubarb.com/), my [repositeries](https://github.com/aubarb?tab=repositories) or my [LinkedIn](https://www.linkedin.com/in/aur%C3%A8le-barban%C3%A7on-782b6a94/).
 
 If you want to reach me you can either [send me an email](mailto:aurele.barbancon@ieseg.fr) or contact me via [Telegram](https://t.me/Oribar29)
 
